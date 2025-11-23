@@ -1,4 +1,5 @@
-#![feature(box_patterns)] 
+#![feature(box_patterns)]
+#![feature(let_chains)]
 use derive_more::From;
 use enum_as_inner::EnumAsInner;
 use enum_dispatch::enum_dispatch;
