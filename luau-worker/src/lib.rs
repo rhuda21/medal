@@ -1,6 +1,5 @@
 use futures_util::StreamExt;
 extern crate console_error_panic_hook;
-
 use base64::prelude::*;
 use luau_lifter::decompile_bytecode;
 use serde::{Deserialize, Serialize};
