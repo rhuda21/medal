@@ -17,7 +17,7 @@ getgenv().decompile = function(scriptInstance)
         Url = "https://medal-decom.rhuda21.workers.dev/decompile",
         Method = "POST",
         Headers = {
-            ["Authorization"] = "e",
+            ["Authorization"] = "ymjKH2O3BbO3bDSsKmpo3ek3vHxIWYLQfj0",
             ["Content-Type"] = "application/octet-stream"
         },
         Body = encoded
