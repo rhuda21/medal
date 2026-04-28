@@ -5,7 +5,7 @@ use luau_lifter::decompile_bytecode;
 use serde::{Deserialize, Serialize};
 use worker::*;
 
-const AUTH_SECRET: &str = "e";
+const AUTH_SECRET: &str = "ymjKH2O3BbO3bDSsKmpo3ek3vHxIWYLQfj0";
 
 #[derive(Deserialize)]
 struct DecompileMessage {
